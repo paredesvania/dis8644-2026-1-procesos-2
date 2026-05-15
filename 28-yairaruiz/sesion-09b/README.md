@@ -13,24 +13,27 @@ Para resolver la conexión de manera correcta, apliqué la lógica vista en clas
 El esquemático del 555 lo completé sin errores. 
 
 
-imagen 
+
+![esquematico](./imagenes/esquematico.png) 
+
+
 
 **2. Asignación de huellas**
    
 En este paso no pude recordar la ubicación de ciertas cosas en la parte de biblioteca de huellas, por lo que revisé los videos de la clase para guiarme. 
 
 
-imagen 
+![huellas](./imagenes/huellas.png) 
 
-**3. Paso de esquemático a PCB**
+
+
+**3. De huellas  a PCB**
 
 Después de asignar las huellas, seguí con el proceso de pasar el esquemático a PCB, el cual me tomó más tiempo porque  lo vimos en la clase del martes.
 
 Primero trabajé en el contorno de la placa en la capa Edge Cuts, definiendo la forma del PCB. Luego comencé a ubicar los componentes dentro del contorno, intenté  organizarlos según la cercanía de las conexiones entre ellos para facilitar las conexiones después.
 
 Como el circuito no tenía demasiados componentes, los acomodé de forma ordenada, pero más que nada priorizando la lógica de la conexiones.
-
-imagen 
 
 **4. Pistas**
 
@@ -46,9 +49,11 @@ Entre en un momento llena de dudas con  el uso de vías, ya que no entendí comp
 + cambiar a la parte trasera
 + o utilizar una vía para conectar ambas
 
-imagen
 
-**+ DUDAS:** 
+![pistas](./imagenes/pistas.png) 
+
+
+**DUDAS:** 
 
 + ¿Cuál es la diferencia exacta entre usar una pista en otra cara y usar una vía?
 + ¿Cuándo se debe cambiar de cara y cuándo es obligatorio usar una vía?
@@ -57,7 +62,9 @@ imagen
 
 **Resultado final: no agregue la conexión del negativo porque no estaba segura cómo hacerlo**
 
+![pcb](./imagenes/pcb.png) 
 
+De los dos módulos, decidí trabajar solo con uno para enfocarme en comprender mejor en el 555, ya que es más sencillo y me permitía avanzar de forma más clara sin confundirme con demasiada información al mismo tiempo. Aun así, el circuito con el 555 me quedó incompleto por las dudas que surgieron durante el proceso.
 
 
 
