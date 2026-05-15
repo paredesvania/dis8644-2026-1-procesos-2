@@ -17,19 +17,21 @@ Recordatorios:
 
 + Terminal block:   es un componente modular con un marco aislado que une de forma segura y ordenada dos o más cables eléctricos. Se utilizan para fijar, conectar y distribuir conductores en tableros eléctricos y dispositivos industriales. 
 
-imagen 
-
 ## Contorno PBC
 
 La clase comenzó con la creación del contorno de la PCB. Esto se realiza en la capa Edge.Cuts, utilizando la herramienta de rectángulo. Luego, se hace doble click sobre el rectángulo para ajustar sus dimensiones y redondear las esquinas.
 El siguiente paso fue acomodar los componentes dentro del contorno creado. La idea de esta etapa es ordenar los componentes de manera estética y funcional, por lo que se recomienda ir revisando constantemente el visor 3D para observar cómo se verá la PCB físicamente.
 
-imagen 
+![pcb](./imagenes/pcb.jpg)
 
 ## Pistas 
+
 Después comenzamos a trabajar con las pistas, que son líneas de cobre dentro de la PCB y funcionan como “cables planos”. Estas se trabajan principalmente en la capa F.Cu, que corresponde a la parte frontal, mientras que B.Cu corresponde a la parte trasera de la PCB.
 
-imagen 
+
+![route](./imagenes/route.jpg)
+
+![pistas](./imagenes/pistas.jpg)
 
 Se recomienda trabajar con dos medidas de pistas:
 
