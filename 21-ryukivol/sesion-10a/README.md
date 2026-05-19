@@ -34,5 +34,7 @@
 - 4046, se cambia su frecuancia segun un voltaje, no con una resistencia osea hay que variar el voltaje
 - VCO oscilador controlado por voltaje 
 - voltaje variable, se puede variar con un potenciometro 1 vcc, 2 voltaje 3 gnd
+- cadena: clock , divisor de voltaje ( potenciometro ), VCO, frecuencia, parlante
 
-- cadena: clock , divisor de voltaje ( potenciometro ), VCO, frecuencia, parlante 
+
+- CD4040, recibe un clock y por su salida sale la mitad del V que entra, por ejemlo solo deja pasar los pares 
