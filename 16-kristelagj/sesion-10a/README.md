@@ -18,6 +18,31 @@ https://github.com/misaaaaaa/multiples-musicas
 
 - Misaa
 
+En esta clase resolvimos dudas sobre kicad que se nos había solicitado la clase anterior.
+
+- A → Herramienta agregar símbolo.
+- ESC → Herramienta selección
+- M → Mover componentes
+- G → Mover // con todo el entramado.
+- V → Asignar valor
+- CMD + S / CTRL + S → Guardar
+- E → Editar.
+- F → Footprint.
+
+—•— → Sí hay conexión
+
+—X → No conexión
+
+✱ Agregar huellas a símbolos
+
+→ Espacio que ocupa una huella en el espacio
+
+→ Los espacios tienen incertidumbres.
+ 
+F → Footprint.
+
+Leds 5mm → típico 
+
 ### imagenes de proceso
 
 ### post-clase
