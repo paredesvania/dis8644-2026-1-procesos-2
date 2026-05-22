@@ -71,43 +71,43 @@ Antes de continuar, quiero hacer mención de que hay posibilidades muy específi
 También existe un espaciado mínimo entre pistas, para que no se toquen las unas con las otras.
 (En cualquier caso, más de 0.3mm es lo mejor).
 
-**Para hacer las pistas, las encontramos aquí:**
+**Para hacer las pistas, las encontramos aquí:**  
 ![img5](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img5.png)
 
-**Luego se nos despliega esto, y aquí podemos poner las anchuras de nuestras pistas. Ya luego de eso, nos van a aparecer como “pinceles”, con las anchuras que hicimos.**
+**Luego se nos despliega esto, y aquí podemos poner las anchuras de nuestras pistas. Ya luego de eso, nos van a aparecer como “pinceles”, con las anchuras que hicimos.**  
 ![img6](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img6.png)
 
-**Y primero, comenzamos a organizar los componentes en el contorno que creamos:**
+**Y primero, comenzamos a organizar los componentes en el contorno que creamos:**  
 ![img7](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img7.png)
 
-**Luego de haber organizado los componentes en la placa, podemos hacer nuestras pistas, en estas dos capas: `F.cu` (front). y `B.cu` (back)**
+**Luego de haber organizado los componentes en la placa, podemos hacer nuestras pistas, en estas dos capas: `F.cu` (front). y `B.cu` (back)**  
 ![img8](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img8.png)
 
-**Luego le hundimos enrutar pista única (o podemos oprimir la letra x):** 
+**Luego le hundimos enrutar pista única (o podemos oprimir la letra x):**   
 ![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img9.png)
 
-**Luego, cuando le hundimos nos aparecen todos los lugares donde debería ir conectado ciertas pistas:**
+**Luego, cuando le hundimos nos aparecen todos los lugares donde debería ir conectado ciertas pistas:**  
 ![img10](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img10.png)
 
-**Una vez ya conectados todos los positivos, vamos a ver una manera de como conectar los negativos:**
+**Una vez ya conectados todos los positivos, vamos a ver una manera de como conectar los negativos:**  
 ![img11](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img11.png)
 
-**Vamos a esta herramienta:**
+**Vamos a esta herramienta:**  
 ![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img12.png)
 
-**Hacemos click en cualquier parte de la pantalla y se nos va a desplegar este menú, y allí seleccionamos ambas caras de las placas: Front y Back, y luego en red, seleccionamos: GND:**
+**Hacemos click en cualquier parte de la pantalla y se nos va a desplegar este menú, y allí seleccionamos ambas caras de las placas: Front y Back, y luego en red, seleccionamos: GND:**  
 ![img13](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img13.png)
 
-**Luego le hundimos aceptar, y hacemos el contorno alrededor de la placa, y hay que ser muy cuidadoses en cerrar bien el contorno; y se vería algo así:**
+**Luego le hundimos aceptar, y hacemos el contorno alrededor de la placa, y hay que ser muy cuidadoses en cerrar bien el contorno; y se vería algo así:**  
 ![img14](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img14.png)
 
-**Luego hundimos la letra `B`, se rellena todo:**
+**Luego hundimos la letra `B`, se rellena todo:**  
 ![img15](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img15.png)
 
-**Aquí ya tenemos todos los GND conectados, ahora vamos a ver si hay algún error, o si algo no está conectado:**
+**Aquí ya tenemos todos los GND conectados, ahora vamos a ver si hay algún error, o si algo no está conectado:**  
 ![img16](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img16.png)
 
-**Vamos allí, y luego le hundimos “ejecutar DRC”, para evaluar que todo está bien.**
+**Vamos allí, y luego le hundimos “ejecutar DRC”, para evaluar que todo está bien.**  
 ![img17](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img17.png)
 
 En este caso todo está bien. Period
@@ -115,13 +115,13 @@ En este caso todo está bien. Period
 Ahora, vamos a abrir unos huequitos para poder integrar nuestra PCB a la superficie.
 
 **Para esto, vamos a nuestro archivo del esquema (SCH)  para a buscar `MountingHole`, que sería nuestro hoyito de montaje, y luego ese lo traemos a nuestro archivo de la PCB.  
-*(recordar asignar huellas, etc.):***
+*(recordar asignar huellas, etc.):***  
 ![img18](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img18.png)
 
-**Listo:**
+**Listo:**  
 ![img19](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img19.png)
 
-**Y ya está.**
+**Y ya está.**  
 ![img20](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img20.png)
 
 Byee.
