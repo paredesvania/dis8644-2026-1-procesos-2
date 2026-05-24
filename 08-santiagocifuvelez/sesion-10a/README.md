@@ -6,8 +6,10 @@ Hola profe Misa, Aarón y Emi, les mando un abrazo y veamos que tenemos para hoy
 2.	Conceptos de; pensamiento objetivo, y pensamiento sistémico.
 3.	Clase sobre algunos chips osciladores.
 4.	Los VCO; Osciladores controlados por voltaje.
+5.	Flusser, cap. 4, 5
 
 ## 1.	Charla sobre la presentación de la próxima exposición; For want or (not) measuring (Para querer o no medir).
 ## 2.	Conceptos de; pensamiento objetivo, y pensamiento sistémico.
 ## 3.	Clase sobre algunos chips osciladores.
 ## 4.	Los VCO; Osciladores controlados por voltaje.
+## 5.	Flusser, cap. 4, 5
