@@ -42,17 +42,15 @@ Nos coordinamos para que cada uno investigue de chips que les interesaria probar
 Llegar con un esquematico que nos gustaria probar para el vioernes pasarlo a la protoboard
 
 ## **INVESTIGACION**
+CD4040: contador y divisor binario de 12 etapas, recibe señal de reloj 
 
-secuenciador ritmico: LM3914 (lineal)
-Controla 10 LEDs directamente, no necesitas transistores adicionales, el chip se encarga de darles la corriente exacta sin quemarlos.
+secuenciador ritmico: LM3914 (lineal):Controla 10 LEDs directamente, no necesitas transistores adicionales, el chip se encarga de darles la corriente exacta sin quemarlos.
 
-LM3915 (logaritmico)
-este chip suaviza visualmente la transición
-LM3916 (Escala VU)
-monitorear audio profesional.
+LM3915 (logaritmico):este chip suaviza visualmente la transición
 
-CD4015
-desplazamiento de 4 bits 
+LM3916 (Escala VU):monitorear audio profesional.
+
+CD4015:desplazamiento de 4 bits 
 
 https://youtu.be/o1EspwOqBII?si=nuPWqXWfQEhIRRB
 
@@ -62,5 +60,15 @@ https://youtu.be/RHaBIaxr2IM?si=yCpxCmMkpsFMATXr
 
 Desplazamiento de 8 bits se desplazan en las transiciones baja a alta de la entrada del reloj 
 
-CD LM339
-divide el voltaje en 4 tiempos 
+CD LM339:divide el voltaje en 4 tiempos 
+
+## **TEXTO: HACIA UNA FILOSOFIA DE LA FILOSOFIA**
+
+Cap.4 El acto de fotografiar: En  este capitulo el autor se refiere al usuario como un cazador, pero con algunas tranpas o dificultades la camara ya decidio que es lo que podemos o no podemos capturar, esta es la que nos usa para poder sacar fotos que vienen predeterminadas por el sistema, basicamente dice que para ser un artista es obligar a la maquina a salir de su programacion predeterminada.
+
+Cap.5 La fotografia: En este capitulo Flusser nos explica es que...
+la verdad no entendi este capitulo, lo re-lei muchas veces y lo que mas se me quedo marcado es que en la fotografia lo valioso es la informacion y no el objeto fisico
+
+**Palabras que no conozco:**
+
+- tundra: ecosistema o bioma que es muy frio
