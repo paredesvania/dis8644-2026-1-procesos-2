@@ -22,4 +22,5 @@ Al audio jack_switch ahy que editarle los nombres por los numeros en 1, 2 y 3 de
 
 Tamaño de la placa maximo 10 x 10
 
+![imagen 1](./imagenes/avance.png)
 
