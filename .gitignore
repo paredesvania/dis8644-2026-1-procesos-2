@@ -4,3 +4,4 @@
 # Kicad
 *.kicad_prl
 *-backups
+.history/
