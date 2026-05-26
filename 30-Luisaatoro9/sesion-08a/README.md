@@ -11,9 +11,14 @@ KiCad es un software gratuito y de código abierto para diseñar circuitos elect
 
 <div align="center">
 
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/68eaa548-e74a-430f-ae3a-3562e8c59a5d" />)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/68eaa548-e74a-430f-ae3a-3562e8c59a5d" />)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f616ea0f-a13e-47f0-bef5-8cf142666574" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b992d8c8-2743-44f6-b66c-69fd399d32dc" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8bbf9abf-fcec-4967-b539-5887335464ce" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/981ca00a-6a43-44c2-aa67-1e5010734aa3" />
 
 </div>
+
 
 ---
 
@@ -52,9 +57,17 @@ Acá viene lo interesante: para pasar del diseño a la realidad hay que vincular
 
 La opción de huella se encuentra en la barra superior de herramientas del editor de esquemas.
 
+<div align="center">
+  
+<img width="176" height="95" alt="image" src="https://github.com/user-attachments/assets/222e8bbe-5d5d-459e-af11-4153f369d37e" />
+
+</div>
+
 **Tercer paso:** El editor de PCB
 
 Se abre el archivo PCB desde KiCad (o desde la barra de herramientas) y se presiona **F8** para añadir todos los componentes a la placa. Después con **ALT + 3** se puede ver el modelo 3D, ahí se ve si la placa quedó demasiado grande y hay que reducirla.
+
+<img width="1290" height="763" alt="image" src="https://github.com/user-attachments/assets/6ac7e08f-9ff5-436d-af4c-1b0d7f53f4db" />
 
 Para definir el borde de la placa se crea un cuadrado en la capa **Edge.Cuts** que encierre todos los componentes. Esa línea le dice a la fábrica dónde cortar la placa.
 
