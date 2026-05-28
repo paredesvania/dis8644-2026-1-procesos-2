@@ -56,7 +56,7 @@ También, creo voy a mover algunos componentes hacia atrás, para tener un poco 
 
 ## 2.	Flusser, cap. 2, 3
 
-#### **Capítulo 2: La imagen técnica.**  
+### **Capítulo 2: La imagen técnica.**  
 
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
 
@@ -71,6 +71,19 @@ Lo anteriormente mencionado a manera de contraste con la imagen tradicional, est
 En este capítulo, el autor también hace mención nuevamente sobre como la fotografía fue inventada con el fin de recargar los textos de “magia” …, y agrega como este término siendo la razón del por qué las imágenes tradicionales se guardarán en los museos y permanecieran allí perdiendo influencia en la vida cotidiana de las personas (y esta influencia es reemplazada por la imagen técnica”. 
 
 Para ir finalizando el resumen y la reflexión, el autor entra en una parte que me abrió los ojos porque nunca había leído sobe algo así, y es que la fotografía y las imágenes fueron creadas con el fin de que como sociedad pudiéramos tener un imaginario en común sobre las cosas que estudiamos, vemos, etc…, pero lo que sucedió, fue un efecto contrario, dividió más las masas pues es como si las personas se encerrarán según sus creencias y/o gustos y la imagen lo que hace es reforzar ese pequeño mundo, haciendo que el mundo real, en el que vivimos quede excluido, y nosotros sumergidos en nuestros propios paradigmas. 
+
+### **Capítulo 3: Los aparatos.**
+
+Este Capítulo trata sobre los aparatos y la “cultura” que gira en torno a ello según la reflexión del autor, esto en super complementación con el capitulo anterior. 
+El autor comienza este capitulo comentando que las imágenes técnicas son producidas por los aparatos (en este caso, la cámara, o como le dice más adelante; la caja negra), y hace una metáfora, diciendo que la cámara se alista para tomar fotografías, como los animales, las acecha para capturarlas. 
+
+El autor menciona que “los aparatos” son una cultura, por las analogías que se pueden hacer a partir de esa palabra, ya que aparatos también es la conjunción de elementos varios en una sola composición…, y dice que es una “cultura” por la connotación que se tiene de la palabra cuando se nombra, y esa sería los aparatos electrónicos, maquinas, o en casos de metáforas, el aparato digestivo, etc…. Agregando a lo anterior, en la lectura se menciona que existen dos tipos de objetos culturales; La del consumo (bienes de consumo) y la de la producción de esos bienes (que serían las herramientas), y existen dos tipos de ciencias (pues en este contexto de la lectura);  Ciencia de la naturaleza y la ciencia de la cultura, y este en la ultima ciencia mencionada (la de la cultura), donde ubicamos a los aparatos ya que esta busca la intención escondida  en los objetos y el para que, y según el autor, la cámara es un aparato que oculta su intención de producir fotografías. 
+En esta parte de la lectura, el autor nos incita a cuestionarnos si las fotografías son un bien de consumo (haciendo referencia al objeto cultural), y si las cámaras son una herramienta. Es aquí cuando el autor nos habla sobre como las herramientas evolucionaron en la revolución industrial a maquinas, y estas eran más eficientes, incluso llegar a reemplazar a algunas personas en sus rubros de trabajo. Entonces nos reformulamos la pregunta; ¿La cámara es una herramienta o es una maquina porque simula el ojo?
+	
+Agregando a lo anterior, el autor menciona como las herramientas, las máquinas y los aparatos se diferencian entre ellos, pues los dos primeros, extraen objetos de la naturaleza y los transforman, y esto transforma el mundo, pero los aparatos no tienen este principio ni esta intención, si no de cambiar el significado del mundo (esto en relación de como las personas en la actualidad juzgan lo que creen que es el mundo o las dinámicas, por medio de fotos o scroll, que no son el mundo real). Omg, esta parte me gusto, aunque es RE TECNICA, pero esto fue lo que entendí de la idea del autor; “El fotógrafo, examina el mundo a través de la cámara, pero no lo hace porque este interesado en el mundo, sino porque está en busca de virtualidades todavía no descubiertas…,[]. Su interés está concentrado en la cámara, y el mundo “exterior”, es un pretexto para realizar las virtualidades contenidas en el programa”, yo esta parte la tomé como que el fotógrafo esta centrado en su propio interés de navegar en la cámara, de navegar en su mundo y adentrarse cada vez más, que la única manera de probar este aparato es a través de las fotos del mundo exterior, pero eso no es lo que importa, lo que importa es sus configuraciones, sus gustos y que estén alineados a los sesgos o gustos del fotógrafo. Y bueno, más adelante el autor llega a una conclusión, y es que el fotógrafo, se termina volviendo un funcionario del aparato. 
+
+Para no hacer este texto más largo, el autor concluye este capitulo diciendo, que los aparatos son cajas negras que simulan el pensamiento humano en cuanto juego que combina símbolos; los aparatos son cajas negras científicas que juegan a pensar. Esto se refiere a los sesgos que las cajas negras también nos pueden generar…, y dividir más como sociedad, pero nosotros tenemos el poder de poder mirar fuera de la caja, y descubrir el verdadero mundo. 
+
 
 Fin.
 Reverse Colonization
