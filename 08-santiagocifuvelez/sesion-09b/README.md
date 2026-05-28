@@ -6,7 +6,58 @@
 
 Ahora sí, veamos que hicimos en esta clase:
 
-**Capítulo 2: La imagen técnica.**  
+1.	Entrega de Encargo y dudas que surgieron de allí.
+2.	Flusser, cap. 2, 3
+   
+Comencemos :)
+
+## 1.	Entrega de Encargo.
+
+El proyecto del cual tuve el privilegio de participar, le llamamos “Precarias”, y fue un sintetizador de onda cuadrada, el cual estaba compuesto por 4 módulos, y cada uno de ellos, tiene un chip (cada chip tiene como su propia casa), los cuales son:
+
+*Modulo 1:* **CLOCK – 555**  
+*Modulo 2:* **SECUENCIADOR – 4017**  
+*Modulo 3:* **SINTETIZADOR – 4093**  
+*Modulo 4:* **SALIDA – AMPLIFICADOR – LM386**  
+
+> Ahora sí, partamos con el esquemático:
+
+Primero creamos y abrimos nuestro proyecto en Kicad.
+
+![img1](./imagenes/img1.png)
+
+Luego, de abrir el archivo pro, abrimos el archivo con extensión: `sch`, para crear nuestro esquemático. Yo primero coloque sobre mi mesa de trabajo, todos los chips con lo que voy a trabajar este circuito, y luego comienzo a “tejer”:
+
+![img2](./imagenes/img2.png)
+![img3](./imagenes/img3.png)
+
+Una vez ya tengamos hecho nuestro esquema, es momento de ponerle las huellas:
+
+![img4](./imagenes/img4.png)
+
+Y ahora sí, a armar la placa:
+
+![img5](./imagenes/img5.png)
+
+Ahora a hacer los senderos:
+
+![img6](./imagenes/img6.png)
+
+Y vamos viendo cómo va quedando:
+
+![img7](./imagenes/img7.png)
+
+También estoy haciendo este “tejido” por el back de la tarjeta, para poder organizar de mejor manera los cables:
+
+![img8](./imagenes/img8.png)
+
+Y bueno, allí voy jijiji.
+También, creo voy a mover algunos componentes hacia atrás, para tener un poco más de orden.
+
+## 2.	Flusser, cap. 2, 3
+
+#### **Capítulo 2: La imagen técnica.**  
+
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
 
 La imagen técnica, es la imagen producida por un aparato (cámara, teléfono, etc…, aparato, y aquí el autor hace 2 aclaraciones; Existen 2 tipos de imagen; la técnica y la tradicional. Las imágenes tradicionales, se les puede llamar pre-históricas, y las imágenes técnicas, pos-históricas. A lo anteriormente mencionado, esto se complementa con el capítulo anterior, donde el autor menciona que es difícil descifrar las imágenes técnicas, ya que aparentemente estas no necesitan ser descifradas, (pues son muy literales). “Su significado parece ser automático”. 

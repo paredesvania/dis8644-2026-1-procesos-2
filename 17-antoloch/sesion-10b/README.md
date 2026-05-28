@@ -1,5 +1,4 @@
 # sesion-10b
-# Apuntes – Sesión 10B
 
 ## Referencias
 - Tega Brain  
@@ -7,7 +6,6 @@
 
 En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron muchas que yo también tenía:) a si que esta clase fue de mucha ayuda!!!!!!!!!
 
----
 
 ##  Conceptos de PCBs
 - Las PCBs se conectan de diferentes maneras a la electricidad.  
@@ -34,7 +32,10 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - **Temporales**: pulsadores, timbres, pushbuttons.  
 - **Tipos**:  
   - NO (Normally Open / Abierto).  
-  - NC (Normally Closed / Conectado).  
+  - NC (Normally Closed / Conectado).
+
+ ![nonc](./imagenes/nonc.png)
+ 
 - **Interruptores**:  
   - SPST → 2 patitas  
   - SPDT → 3 patitas  
@@ -44,7 +45,6 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - Para encontrarlos: buscar **SW_SPST** o **SW_SPDT**.  
 - Asignar huella: `[Button_Switch_THT:SW_PUSH_6mm]`.  
 
----
 
 ## Bibliotecas de símbolos
 - Crear carpeta propia en **Symbol Editor** dentro del proyecto `.pro`.  
@@ -52,18 +52,27 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - Activar bibliotecas → **File → New Library** → guardar.  
 - Copiar componente → pegar en carpeta → editar → guardar.  
 
----
 
 ## Etiquetas
 - Conectar sin cableado en esquemático: tecla **L** (Label).  
 - Evita error de pin no conectado.  
 - Desde batería: usar etiqueta **PWG_FLAG**.  
 
----
 - Cambiar de cara componentes: seleccionar → tecla **F**.  
 
----
 
 ## 3D
 - Seleccionar huella en `.pcb` → tecla **E** → menú **3D Models** → cargar modelos descargados.  
-- Exportar placa completa: **File → Export → STEP/STL/etc.**  
+- Exportar placa completa: **File → Export → STEP/STL/etc.**
+
+
+## Cap 2 y 3
+
+muestran que la fotografía no es un espejo del mundo, sino un lenguaje límitado por máquinas y sistemas industriales. En donde el fotógrafo es un quien explora las posibilidades que estan  en el programa (camara), no es totalmente libre que decide todo. La verdadera libertad estaría en subvertir el aparato, usar la cámara de una forma que no estaba previsto, romper las reglas.
+
+Flusser dice que las imaagenes técnicas no son lo mismo que las imágenes tradicionales. Las tradicionales son prehistóricas, porque existieron antes de la escritura, y son abstracciones directas del mundo. En cambio, las técnicas son poshistóricas, porque nacen de los textos científicos aplicados. Son abstracciones: primero del mundo, luego de las imágenes, luego de los textos, y finalmente de los aparatos que producen esas imágenes. Es como una cadena: una foto es una imagen de una imagen de una imagen.
+
+Creemos que la foto es objetiva, que muestra “la verdad”, pero en realidad es un símbolo, una construcción. La cámara es una caja negra: vemos lo que entra (la luz) y lo que sale (la foto), pero no entendemos ni controlamos la maquina, lo que pasa dentro.
+
+Bueno,  en las cámaras de los celulares, todo esto funciona tal cual lo describe Flusser: los modos automáticos ya traen inscrito un “saber” sobre cómo debe verse la realidad, este enfoca solo, tinene modos, etc. El fotógrafo juega dentro de esas reglas, pero no completamnete libreee.
+ 

@@ -3,7 +3,6 @@
 
 ### pre-clase (teloneo Aaron)
 
-
 Hoy comenzamos hablando sobre la charla que estuvo a cargo de Aaron llamada “GROUNDING COMPUTATION: TECHNOLOGIES + ECOLOGIES. A Partir de ellos, comenzamos ha hablar sobres diferentes entes que conforman la UDP actualmente como:
 
 - Catalina Pino que es artista y educadora que aborda la tecnología digital desde una perspectiva crítica a través del uso de materiales reciclados y la combinación con Physical Computing. 
@@ -33,4 +32,27 @@ Pitch → distancia entre las patas.
 
 En esta clase tambien decidimos que parte del sintetizador seriamos y nuestro grupo de igual manera!
 Somos el oscilador 2!
+
+### Post-clase
+
+*Capítulo 2: La imagen técnica*
+
+Aquí Flusser nos explica la diferencia entre los tipos de imágenes: técnicas y tradicionales.
+
+Las imágenes tradicionales son las que nosotros interpretamos directamente, que estamos viendo, que interpretamos y representamos, osea seria: mundo-persona-imagen.
+
+Las imágenes técnicas están realizadas con un aparato ( en este caso una cámara) las cuales no son objetuales, ya que son manipuladas por el que está sacando la foto, además de inmortalizar un momento el cual no sabemos qué está pasando detrás ni personas y/o cosas que están ahí y como dice Flusser puede parecer una realidad, pero sigue siendo una imagen haciendo que dejemos de lado los símbolos teniendo así una especie de magia que nos hace olvidar que solo son imagenes hipnotizandonos o como lei en internet. A parti de esto quedaría como: mundo-aparato-imagen
+
+Gracias a esta reflexión pasamos a lo más importante que plantea Flusser en el capítulo qué es la caja negra. Esta funciona sabiendo lo que entra por ella pero no sabemos qué va a salir de esta.
+
+Al leer este capitulo me acordaba siempre a como mi mamá siempre alega de que mucha gente en redes siempre sube fotos “pasándola bien” y despues tu les preguntas cómo la pasaron y dicen siempre que mal, que no les gusto y que preferían no haber ido, entonces ¿por qué deseas plasmar ante esta caja negra tu momento? es por esto que no debemos creer en lo que sube la gente, uno siempre piensa que comparte lo que nos gusta y nos hace feliz, pero en verdad no es así, es solo por aparentar. 
+
+*Capítulo 3: los aparatos*
+
+En este capítulo Flusser nos menciona que son realmente las cámaras y cómo estas afectan nuestro pensar y crear.
+
+Las cámaras son un aparato programado que nos limita y guia a las personas ya que esta viene condicionado desde otro lugar—fábricas, químicos, etc— osea, una máquina creada por la ciencia y la tecnología que funciona mediante un programa, pero este tiene limitaciones, nunca vas a ser 100% libre usandola produciendo así en el receptor comportamientos, formas de pensar y ver. La cámara o aparato nunca será neutral. Siempre tendrá un sesgo. 
+
+Pensando en cómo funcionan y son las camara pienso mucho por ejemplo en los teléfonos que vienen desde asia ya que nos hacen creer ser una persona distinta ya que viene con un filtro determinado que ellos utilizan a partir de su forma de casa, esto lo podemos ver en los teléfonos samsung en sobre todo, ya que siempre te hace la cara mucho más alargada generando en algunas personas una necesidad y realidad alterada por la máquina. 
+
 

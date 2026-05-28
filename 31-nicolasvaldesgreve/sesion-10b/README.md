@@ -49,10 +49,15 @@ Para poder guiarnos en que basarnos Misa nos entregó esquemáticos en base a lo
 3. Situación de "progreso": El emisor distribuye su información en forma de giálogos que la enriquecen con información nueva antes de transmitirla, como un discurso científico.
 4. Situación de "manifestación": El emisor envía su información al espacio vacío, como en la comunicación por radio _(aquí aplica la distribución de fotografías)_.
 
+#### Canales de información
 
-#### Vocabulario con definiciones de la RAE
+Toda información se puede situar en tres categorías: en información indicativa "A es A", información imperativa "A debe ser A" o en información optativa "deja que A sea A" y las formas ideales de estas opciones son la "verdad", la "bondad" y la "belleza" en el mismo orden.
 
-+ 
+1. Canales para fotografías supuestamente indicativas: publicaciones científicas, noticias.
+2. Canales para fotografías supuestamente imperativas: carteles para publicidad ya sea política o comercial.
+3. Canales para fotografías supuestamente optativas (fotografías artísticas): galerías, revistas de arte.
+
++ "Sin embargo, quien sabe tomar fotografias no necesariamente sabe cómo descifrarlas."
 
 ---
 

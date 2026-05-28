@@ -29,4 +29,21 @@ Veamos que tenemos para hoy:
 >> *(Este concepto lo nombro el profesor Missa, en complemento de la retroalimentación de la lectura del día…)*
 
 ## 3.	Trabajo en clase, proyecto para solemne 02. 
+
+Para nuestro proyecto solemne, vamos a hacer un sintetizador modular, en la que cada grupo que se formó para este proyecto, tiene partes del sintetizador muy importantes, y en este caso en mi grupo escogimos el Oscilador 2.
+
+#### Propuesta oscilador 1:   
+Con esta opción podremos generar ondas cuadradas y ondas de diente de sierra.
+
+`Chip`: 40106
+`Amplificador`: LM 324
+
+*Esquema realizado por mi profesor Missa, para ayudarnos con una explicación*
+![img1](./imagenes/img1.jpg)
+
+Propuesta oscilador 2: Con esta opción podremos generar ondas cuadradas y ondas de diente de sierra también, pero con este chip, todo suena más agresivo.
+
+`Chip`: 4051
+
+
 ## 4.	Flusser, cap. 6, 7
