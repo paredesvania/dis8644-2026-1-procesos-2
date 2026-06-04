@@ -150,3 +150,5 @@ Ayudamos al grupo 03 (osciladores 1) prestandoles dos potenciómetros b100k
 lorem ipsum
 
 ## Bibliografía
+
++ <https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/>
