@@ -100,13 +100,13 @@ Título módulo 2
 
 ### Descripción general/conceptual 2
 
-> ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
-
 Este módulo, al igual que el anterior, permite que uno pueda interactuar con el sintetizador al que esté conectado el piezo, pero en este caso se necesita contacto directo al componente lo cual se manifestará como una interferencia en el sonido que se esté emitiendo.
 
 ### Descripción de funcionamiento 2
 
 > Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+
+
 
 ### Esquemático 2
 
@@ -160,11 +160,12 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ### ¿Cómo ayudé a otro grupo?
 
-Ayudamos al grupo 03 (osciladores 1) prestándoles dos potenciómetros B100K y 
++ Ayudamos al grupo 03 (osciladores 1) prestándoles dos potenciómetros B100K.
 
 ### ¿Cómo me ayudó otro grupo?
 
-Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudó con la compra de componentes y apoyo emocional de manera constante tanto dentro como fuera de clases.
++ Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudó con la compra de componentes y apoyo emocional de manera constante tanto dentro como fuera de clases.
++ Yaira Ruiz nos ayudó a agregar las carpetas que contienen las huellas del curso.
 
 ## Bibliografía
 
