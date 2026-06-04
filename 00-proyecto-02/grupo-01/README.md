@@ -143,7 +143,7 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ### ¿Cómo ayudé a otro grupo?
 
-Lorem ipsum
+Ayudamos al grupo 03 (osciladores 1) prestandoles dos potenciómetros b100k
 
 ### ¿Cómo me ayudó otro grupo?
 
