@@ -133,6 +133,7 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 | Batería 9V recargable | 1 | $7.990 | <https://www.sodimac.cl/sodimac-cl/articulo/110251085/bateria-recargable-9v/110251089> |
 | Conector batería | 1 | $1.990 | <https://mcielectronics.cl/shop/product/conector-para-baterias-de-9v-9800/?srsltid=AfmBOorf4iqHmZZbBCSLCPoI-UFTBMuBMtXEwLw-ia48KteW5jir8sIx> |
 | Piezo | 1 | $990 | <https://www.mechatronicstore.cl/sensor-piezoelectrico-27mm-con-cable/> |
+| Interruptor Switch | 1 | $559 | <https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJlIeUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA> |
 
 ## Otros circuitos
 
