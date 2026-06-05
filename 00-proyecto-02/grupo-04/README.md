@@ -17,9 +17,7 @@ Integrantes:
 
 ## Circuito 1
 
-![Título módulo 1](./imagenes/titulo1oscilador1.gif)
-
-*chirihue mecanizado*
+![*chirihue mecanizado*](./imagenes/titulo1oscilador1.gif)
 
 "Desembarcando en Riñihue
 
@@ -88,7 +86,7 @@ La señal producida por el CD40106 pasa luego por una segunda etapa formada por 
 
 ## Circuito 2
 
-*Comunicaciones espaciales*
+![*Comunicaciones espaciales*](./imagenes/titulo2oscilador2.gif)
 
 Espacio, miles de kilómetros de espacio,
 
