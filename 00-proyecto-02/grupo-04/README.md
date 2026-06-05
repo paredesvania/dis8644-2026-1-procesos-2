@@ -88,6 +88,11 @@ Tema del grupo: **Oscilador 2**
 
 _____________________________________________________________________
 
+<br>
+<br>
+<br>
+<br>
+
 ## Propuesta 02: Comunicaciones espaciales
 
 ![*Comunicaciones espaciales*](./imagenes/titulo2osciladorr2.gif)
