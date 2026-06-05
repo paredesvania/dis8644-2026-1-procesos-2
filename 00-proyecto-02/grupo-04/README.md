@@ -20,11 +20,17 @@ Integrantes:
 *chirihue mecanizado*
 
 "Desembarcando en Riñihue
+
 Se vio la Violeta Parra
+
 Sin cuerdas en la guitarra
+
 Sin hojas en el coligüe
+
 Una banda de chirigües
+
 Le vino a dar un concierto"
+
 —Inti-Illimani
 
 Nuestro circuito es un oscilador, el cual tiene la función de generar la forma de la onda que luego se convertirá en sonido. El Chirihue Mecanizado lleva su nombre gracias al parecido con el canto de este pájaro, quien tiene una melodía particular, donde repite sonidos extremadamente cortos y agudos de manera continua, y va oscilando/variando, de cierta forma, en la tonalidad y en el ritmo. Esta propuesta lleva su apellido “Mecanizado” ya que nuestros sonidos se encuentran limitados por la condición de la máquina, y aunque quisiéramos, no podríamos imitar su canto original que está creado por la naturaleza. Por lo tanto, esta es nuestra reinterpretación de su voz. 
@@ -62,10 +68,15 @@ https://youtube.com/shorts/mDQom4hty6A?si=wljWdzG3RVMwezJX
 *Comunicaciones espaciales*
 
 Espacio, miles de kilómetros de espacio, 
+
 y voces vibrando en su centro.
+
 Ningún hombre al alcance de la vista,
+
 sólo las ondas de radio se agitaban
+
 tratando de emocionar a otros hombres.
+
 —Calidoscopio - Ray Bradbury
 
 *imagen: Schauer, K. (2021)*
