@@ -183,11 +183,13 @@ El LM324 es un chip DIP-14 que contiene **4 amplificadores operacionales indepen
 Los pines que usamos y su función:
 
 <p align="center">
-  <img width="872" height="497" alt="image" src="https://github.com/user-attachments/assets/ff3aef47-5c0a-4d32-8a86-dc2395f2d94b" />
+  <img width="750" alt="image" src="https://github.com/user-attachments/assets/ff3aef47-5c0a-4d32-8a86-dc2395f2d94b" />
   <br/>
   <em>Configuración de Pines (LM324)</em>
 </p>
 
+<div align="center">
+  
 | Pin | Nombre | Función en nuestro circuito |
 |-----|--------|-----------------------------|
 | **4** | V+ | Alimentación positiva (+5V desde el LM7805) |
@@ -202,12 +204,15 @@ Los pines que usamos y su función:
 | **10** | IN− (op-amp C) | Entrada inversora — conectada a la segunda red RC (R7 + C3) |
 | **8** | OUT (op-amp C) | Salida final filtrada — va al LED indicador y al jack de salida |
 
+</div>
 
 <p align="center">
   <img width="1100" height="600" alt="Esquemático circuito activo LM324" src="https://github.com/user-attachments/assets/67f33c1f-4c70-42df-b8d4-6b760d996db5" />
+ 
   <br/>
   <em>Esquemático — Filtro Activo LM324</em>
-</p>
+  </p>
+
 
 
 **Descripción del esquemático:**
@@ -391,6 +396,18 @@ El diseño circular con pistas en espiral también evoca inevitablemente un **to
 
 ### Bibliografía
 
+* Texas Instruments. LM324 Low-Power Quad Operational Amplifier Datasheet. Documento técnico utilizado para comprender el funcionamiento del amplificador operacional LM324 empleado en el filtro activo.
+* Texas Instruments. LM741 Operational Amplifier Datasheet. Documento consultado para el diseño y análisis del filtro de frecuencias altas.
+* Texas Instruments. TL072 Low-Noise JFET-Input Operational Amplifier Datasheet. Utilizado para estudiar el procesamiento de señales de audio y el funcionamiento de amplificadores operacionales de bajo ruido.
+* Texas Instruments. LM386 Low Voltage Audio Power Amplifier Datasheet. Referencia utilizada para comprender la amplificación de señales de audio durante las pruebas del circuito.
+* Texas Instruments. CD4046B Phase-Locked Loop Datasheet. Documento empleado para entender la generación y control de frecuencias mediante un PLL.
+* Documentación oficial de KiCad. Utilizada para el diseño de esquemáticos electrónicos, asignación de huellas (footprints) y diseño de placas PCB.
+* Material de clases, presentaciones y guías entregadas durante el curso.
+* Horowitz, Paul y Hill, Winfield. The Art of Electronics. Cambridge University Press. Libro de referencia sobre diseño y análisis de circuitos electrónicos.
+* Sedra, Adel S. y Smith, Kenneth C. Microelectronic Circuits. Oxford University Press. Texto utilizado como apoyo para comprender el funcionamiento de amplificadores operacionales y filtros activos.
+* Floyd, Thomas L. Principios de Circuitos Eléctricos. Pearson Educación. Libro de consulta para conceptos fundamentales de electrónica y análisis de circuitos.
+* Apuntes personales, registros de laboratorio y pruebas realizadas durante el desarrollo del proyecto.
+
 **Datasheets de los componentes**
 
 LM324 – Texas Instruments Datasheet
@@ -415,14 +432,4 @@ Guías de laboratorio y material entregado por los docentes.
 Registros de pruebas, mediciones y experimentación realizados durante el desarrollo del proyecto.
 
 
-* Texas Instruments. LM324 Low-Power Quad Operational Amplifier Datasheet. Documento técnico utilizado para comprender el funcionamiento del amplificador operacional LM324 empleado en el filtro activo.
-* Texas Instruments. LM741 Operational Amplifier Datasheet. Documento consultado para el diseño y análisis del filtro de frecuencias altas.
-* Texas Instruments. TL072 Low-Noise JFET-Input Operational Amplifier Datasheet. Utilizado para estudiar el procesamiento de señales de audio y el funcionamiento de amplificadores operacionales de bajo ruido.
-* Texas Instruments. LM386 Low Voltage Audio Power Amplifier Datasheet. Referencia utilizada para comprender la amplificación de señales de audio durante las pruebas del circuito.
-* Texas Instruments. CD4046B Phase-Locked Loop Datasheet. Documento empleado para entender la generación y control de frecuencias mediante un PLL.
-* Documentación oficial de KiCad. Utilizada para el diseño de esquemáticos electrónicos, asignación de huellas (footprints) y diseño de placas PCB.
-* Material de clases, presentaciones y guías entregadas durante el curso.
-* Horowitz, Paul y Hill, Winfield. The Art of Electronics. Cambridge University Press. Libro de referencia sobre diseño y análisis de circuitos electrónicos.
-* Sedra, Adel S. y Smith, Kenneth C. Microelectronic Circuits. Oxford University Press. Texto utilizado como apoyo para comprender el funcionamiento de amplificadores operacionales y filtros activos.
-* Floyd, Thomas L. Principios de Circuitos Eléctricos. Pearson Educación. Libro de consulta para conceptos fundamentales de electrónica y análisis de circuitos.
-* Apuntes personales, registros de laboratorio y pruebas realizadas durante el desarrollo del proyecto.
+
