@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "10.0.1"
     },
-    "CreationDate": "2026-06-06T12:38:04-04:00"
+    "CreationDate": "2026-06-06T13:04:02-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "secuenciador-02-v03",
-      "GUID": "73656375-656e-4636-9961-646f722d3032",
+      "Name": "g-02-sec-02-rev-a",
+      "GUID": "672d3032-2d73-4656-932d-30322d726576",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "secuenciador-02-v03-F_Cu.gbr",
+      "Path": "g-02-sec-02-rev-a-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "secuenciador-02-v03-B_Cu.gbr",
+      "Path": "g-02-sec-02-rev-a-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "secuenciador-02-v03-F_Silkscreen.gbr",
+      "Path": "g-02-sec-02-rev-a-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "secuenciador-02-v03-B_Silkscreen.gbr",
+      "Path": "g-02-sec-02-rev-a-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "secuenciador-02-v03-F_Mask.gbr",
+      "Path": "g-02-sec-02-rev-a-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "secuenciador-02-v03-B_Mask.gbr",
+      "Path": "g-02-sec-02-rev-a-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "secuenciador-02-v03-Edge_Cuts.gbr",
+      "Path": "g-02-sec-02-rev-a-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
