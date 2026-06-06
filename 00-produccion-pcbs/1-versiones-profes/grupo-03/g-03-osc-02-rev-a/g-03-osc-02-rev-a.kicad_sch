@@ -4914,7 +4914,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 140.97) (xy 184.15 152.4)
+			(xy 184.15 140.97) (xy 184.15 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5414,7 +5414,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 152.4) (xy 148.59 152.4)
+			(xy 151.13 154.94) (xy 184.15 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5494,7 +5494,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 157.48) (xy 153.67 157.48)
+			(xy 151.13 157.48) (xy 153.67 157.48)
 		)
 		(stroke
 			(width 0)
@@ -5842,7 +5842,7 @@
 			(uuid "5fc4293a-b513-4cfe-b781-9c2c0b03aeab")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR023")
 					(unit 1)
@@ -5923,7 +5923,7 @@
 			(uuid "3e1a9f1f-4b59-4f8b-8d3c-aa23b3b3c175")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "C5")
 					(unit 1)
@@ -6005,7 +6005,7 @@
 			(uuid "5a3f0148-1eed-42e9-8676-75f4385b829f")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "C4")
 					(unit 1)
@@ -6083,7 +6083,7 @@
 			(uuid "bbded0f5-39d6-4a36-b63d-a2e3dbc70bb0")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR08")
 					(unit 1)
@@ -6162,7 +6162,7 @@
 			(uuid "8da66981-e518-4a2f-87f6-bfba1c8247fe")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "R1")
 					(unit 1)
@@ -6240,7 +6240,7 @@
 			(uuid "78973c3a-7748-48c9-88bb-c4af7d4f1083")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR015")
 					(unit 1)
@@ -6322,7 +6322,7 @@
 			(uuid "5a0739d7-12a7-470e-9ad6-1539f434858e")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "J1")
 					(unit 1)
@@ -6400,7 +6400,7 @@
 			(uuid "06fd2168-18da-4c65-bdad-25ae374fa4ce")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR07")
 					(unit 1)
@@ -6431,7 +6431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "4u7"
 			(at 44.45 117.6781 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6482,7 +6482,7 @@
 			(uuid "e761704a-c02c-486d-8a9b-e7af6b5daefd")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "C3")
 					(unit 1)
@@ -6598,7 +6598,7 @@
 			(uuid "0183859d-bbc2-4561-9900-bc9774dfedbe")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "RV1")
 					(unit 1)
@@ -6677,7 +6677,7 @@
 			(uuid "0e9b2927-def2-4155-a355-a4f84a67e3a6")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "R3")
 					(unit 1)
@@ -6755,7 +6755,7 @@
 			(uuid "c4fef194-d486-49b8-82ee-b0c58c91db63")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR011")
 					(unit 1)
@@ -6879,7 +6879,7 @@
 			(uuid "7194597b-9d96-44b0-9d97-4c8ca397a51e")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U1")
 					(unit 1)
@@ -6955,7 +6955,7 @@
 			)
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "H3")
 					(unit 1)
@@ -7071,7 +7071,7 @@
 			(uuid "2adab222-514e-4765-b307-23ad54d412c6")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "RV2")
 					(unit 1)
@@ -7155,9 +7155,90 @@
 			(uuid "af3a0723-1a79-4e73-91e7-4b8fb2ec8dc0")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 184.15 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "42797b63-fd8b-4718-824d-cd8e510146b4")
+		(property "Reference" "C7"
+			(at 187.96 135.8899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 187.96 138.4299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 184.15 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2495f90a-9db0-460c-81b1-71fe857e8672")
+		)
+		(pin "2"
+			(uuid "5ad2c3ac-b970-4f39-95de-0e3f7d66ffab")
+		)
+		(instances
+			(project "g-03-osc-02-rev-a"
+				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7233,7 +7314,7 @@
 			(uuid "e2467a99-47df-4d68-bafe-fce4c907ef1d")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR024")
 					(unit 1)
@@ -7311,7 +7392,7 @@
 			(uuid "32377466-fff9-4f97-858f-560c34a46d04")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR017")
 					(unit 1)
@@ -7389,7 +7470,7 @@
 			(uuid "57aa8e13-d154-404c-b440-97c3c1eb8f33")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR025")
 					(unit 1)
@@ -7467,7 +7548,7 @@
 			(uuid "d157677e-9ebd-478a-870a-727e218dbb62")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR022")
 					(unit 1)
@@ -7545,7 +7626,7 @@
 			(uuid "ea6f1645-76b5-4de1-a6b8-5624541b5d3d")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR012")
 					(unit 1)
@@ -7664,7 +7745,7 @@
 			(uuid "5b20be8b-8ab8-40ac-945f-92fa2d6e7015")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U3")
 					(unit 7)
@@ -7742,7 +7823,7 @@
 			(uuid "528b3e60-0645-4da3-8386-08d7d4c7a31a")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR019")
 					(unit 1)
@@ -7821,7 +7902,7 @@
 			(uuid "6d0d1fc3-8d00-4aeb-96fd-be2e346546a5")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "R2")
 					(unit 1)
@@ -7904,7 +7985,7 @@
 			(uuid "cde09acc-be9d-41b4-8921-4ca6250af774")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "J3")
 					(unit 1)
@@ -7980,7 +8061,7 @@
 			)
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "H4")
 					(unit 1)
@@ -8058,7 +8139,7 @@
 			(uuid "f2e23170-d8f0-414b-8319-25f609bd91bb")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR018")
 					(unit 1)
@@ -8182,7 +8263,7 @@
 			(uuid "42397162-54f6-43ef-8661-c6a620b7ebc8")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U2")
 					(unit 1)
@@ -8260,7 +8341,7 @@
 			(uuid "592c823d-c1b2-4532-99df-3be5639b0acc")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR026")
 					(unit 1)
@@ -8361,7 +8442,7 @@
 			(uuid "35590dae-e4fc-4438-be1f-ad1341c281de")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "D2")
 					(unit 1)
@@ -8443,7 +8524,7 @@
 			(uuid "561e0802-85da-4694-ac9d-d54bd69b1641")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "SW3")
 					(unit 1)
@@ -8521,7 +8602,7 @@
 			(uuid "119f570c-7eec-45a0-9c2e-84d89d7b5ab6")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR020")
 					(unit 1)
@@ -8599,7 +8680,7 @@
 			(uuid "5dc2c296-715e-4cef-b0df-9ce22dc96e02")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR010")
 					(unit 1)
@@ -8609,7 +8690,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
-		(at 143.51 154.94 0)
+		(at 146.05 154.94 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8619,7 +8701,7 @@
 		(dnp no)
 		(uuid "9bcc29d3-9788-4c1a-93f6-c2c182c7a451")
 		(property "Reference" "J4"
-			(at 142.875 146.05 0)
+			(at 145.415 163.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8629,7 +8711,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 142.875 148.59 0)
+			(at 145.415 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8639,7 +8721,7 @@
 			)
 		)
 		(property "Footprint" "dis8644:PJ301M-12"
-			(at 143.51 163.83 0)
+			(at 146.05 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8650,7 +8732,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 154.94 0)
+			(at 146.05 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8661,7 +8743,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"
-			(at 143.51 154.94 0)
+			(at 146.05 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8681,7 +8763,7 @@
 			(uuid "8ec27041-e2a8-454b-9451-e576533f98eb")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "J4")
 					(unit 1)
@@ -8774,7 +8856,7 @@
 			(uuid "b7128401-23a6-4b33-b7a8-79b03a897879")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "D1")
 					(unit 1)
@@ -8855,7 +8937,7 @@
 			(uuid "2a76b9fc-0cec-46a3-b6d3-69ede67d721a")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "C6")
 					(unit 1)
@@ -8934,91 +9016,9 @@
 			(uuid "ae962c79-1468-4ab5-a849-db8175d5fdb1")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 170.18 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b18a933e-f017-4abb-8303-4a5d6dc013f4")
-		(property "Reference" "C1"
-			(at 173.99 113.0299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 173.99 115.5699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 171.1452 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 170.18 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "706be57e-6963-4eb1-8f5b-2be2ad5c5fb9")
-		)
-		(pin "1"
-			(uuid "581dc183-55ae-471f-80d0-12b9d51dfaca")
-		)
-		(instances
-			(project "Oscilador-02-v03"
-				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
-					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -9094,7 +9094,7 @@
 			(uuid "edbc6e12-27b0-4146-8705-b6fd472de878")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR014")
 					(unit 1)
@@ -9172,9 +9172,90 @@
 			(uuid "493efffa-7daf-422b-bf74-18e4cc625f19")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 170.18 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c528cace-aa07-4c3a-8872-964efa41cba5")
+		(property "Reference" "C8"
+			(at 173.99 112.1409 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 173.99 114.6809 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
+			(at 168.91 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 170.18 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "923652fb-3469-4315-8f73-593be9a3aeba")
+		)
+		(pin "2"
+			(uuid "e3030f7a-ae2c-4f1d-9873-ddbcfb5aa721")
+		)
+		(instances
+			(project "g-03-osc-02-rev-a"
+				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -9250,91 +9331,9 @@
 			(uuid "a34eb3ee-8e60-4f49-bafa-70b30e53861b")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 184.15 137.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ccac4fcb-272b-408d-b15e-2c2be2a1780c")
-		(property "Reference" "C7"
-			(at 187.96 135.8899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 187.96 138.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 185.1152 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 184.15 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "97d661cd-df75-4af7-b30d-1c4538340ab0")
-		)
-		(pin "1"
-			(uuid "69b81684-61b1-420e-ac0e-f436d33eacdf")
-		)
-		(instances
-			(project "Oscilador-02-v03"
-				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
-					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9410,7 +9409,7 @@
 			(uuid "644a80d4-ff34-4bcc-96d6-13cda51c1fba")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR021")
 					(unit 1)
@@ -9502,7 +9501,7 @@
 			(uuid "ada9edc4-5613-488f-83f5-4c796a859558")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "D8")
 					(unit 1)
@@ -9618,7 +9617,7 @@
 			(uuid "00afc991-5e20-41dd-b164-876dc5ea91d8")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U3")
 					(unit 1)
@@ -9696,7 +9695,7 @@
 			(uuid "50136598-9816-4423-ac75-ac777b019c87")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR06")
 					(unit 1)
@@ -9812,7 +9811,7 @@
 			(uuid "00afc991-5e20-41dd-b164-876dc5ea91dc")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U3")
 					(unit 2)
@@ -9890,7 +9889,7 @@
 			(uuid "571cf898-66f4-4a2f-84bb-4fc779018d7d")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR03")
 					(unit 1)
@@ -9968,7 +9967,7 @@
 			(uuid "7bdb9b52-cdb8-46ef-83c3-e23f971b69ae")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR016")
 					(unit 1)
@@ -10049,7 +10048,7 @@
 			(uuid "c79feb58-5c80-481a-9953-06b4b6489148")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "R4")
 					(unit 1)
@@ -10127,7 +10126,7 @@
 			(uuid "3dd8ec5f-7cf1-4730-a40c-8e093f93a861")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "#PWR027")
 					(unit 1)
@@ -10203,7 +10202,7 @@
 			)
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "H1")
 					(unit 1)
@@ -10279,7 +10278,7 @@
 			)
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "H2")
 					(unit 1)
@@ -10363,7 +10362,7 @@
 			(uuid "f547c5eb-aa25-4452-ac87-ef5e365c9efa")
 		)
 		(instances
-			(project "Oscilador-02-v03"
+			(project "g-03-osc-02-rev-a"
 				(path "/65309a83-755a-4e7b-96b6-419b43101a64"
 					(reference "U4")
 					(unit 1)

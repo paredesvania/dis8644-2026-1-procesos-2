@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Oscilador-02-v03.kicad_pro",
+    "filename": "g-03-osc-02-rev-a.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -539,7 +539,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../2-archivos-produccion/g-03-osc-02-rev-a/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -658,18 +658,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Oscilador-02-v03.kicad_sch",
-        "name": "Oscilador-02-v03",
+        "filename": "g-03-osc-02-rev-a.kicad_sch",
+        "name": "g-03-osc-02-rev-a",
         "uuid": "65309a83-755a-4e7b-96b6-419b43101a64"
       }
     ],
-    "used_designators": "U5,#PWR21-27",
+    "used_designators": "C7-8",
     "variants": []
   },
   "sheets": [
     [
       "65309a83-755a-4e7b-96b6-419b43101a64",
-      "Oscilador-02-v03"
+      "g-03-osc-02-rev-a"
     ]
   ],
   "text_variables": {},
