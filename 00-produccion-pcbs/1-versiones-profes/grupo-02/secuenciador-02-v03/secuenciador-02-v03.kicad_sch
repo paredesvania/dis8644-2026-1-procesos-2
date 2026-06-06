@@ -1692,6 +1692,105 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulator_Linear:L7805"
 			(pin_names
 				(offset 0.254)
@@ -3076,16 +3175,22 @@
 		(uuid "cff9a6d6-c296-4824-adbc-bead8405b183")
 	)
 	(junction
-		(at 137.16 48.26)
+		(at 121.92 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1bd562df-dba1-4933-b119-66354523cee7")
+		(uuid "007c573b-c794-4421-808e-891efc713e27")
 	)
 	(junction
-		(at 167.64 85.09)
+		(at 106.68 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2aa2efdd-8e04-4878-8e84-6ae7ea50c22e")
+		(uuid "0f2688ba-ae6e-414f-be4e-36a4a8ff359c")
+	)
+	(junction
+		(at 36.83 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31de1ec5-fb5c-4027-90a3-e6b28a2f6faf")
 	)
 	(junction
 		(at 80.01 90.17)
@@ -3112,6 +3217,18 @@
 		(uuid "6d25d8a6-f58f-4338-8d42-d871958e38c7")
 	)
 	(junction
+		(at 91.44 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74002ab7-1a59-4c38-b968-8e41e6441c75")
+	)
+	(junction
+		(at 199.39 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c0391bd-0353-480a-b56b-b0dd98ac26ff")
+	)
+	(junction
 		(at 389.89 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3130,34 +3247,16 @@
 		(uuid "a970886e-5bfb-4d51-9d16-93ba5d45f53a")
 	)
 	(junction
-		(at 152.4 82.55)
+		(at 137.16 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9bda69d-3a48-49a5-a76a-e5600c0e6ede")
+		(uuid "acd50c77-666a-44a0-a320-d9bf5fda8b90")
 	)
 	(junction
-		(at 106.68 43.18)
+		(at 167.64 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9ca1af4-6fa1-42e4-a840-87275b3cbd3c")
-	)
-	(junction
-		(at 199.39 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab32c552-4f8b-44a8-92d1-c8dcbb35e2a5")
-	)
-	(junction
-		(at 184.15 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1fd6d80-c642-4708-8bf8-8b09280b9025")
-	)
-	(junction
-		(at 121.92 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b38564b8-f807-44de-88f8-c382cc25ec1b")
+		(uuid "b01d78e7-52b1-48a5-9e1c-496d43c9a8d4")
 	)
 	(junction
 		(at 340.36 53.34)
@@ -3172,10 +3271,10 @@
 		(uuid "bb1beae5-2bb4-4faf-970e-40f651f9afbf")
 	)
 	(junction
-		(at 91.44 40.64)
+		(at 152.4 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cf7413a8-97da-49ba-aa09-44633c10f63d")
+		(uuid "c4a50bb8-aa15-4cd7-b2a3-2a9a155952dc")
 	)
 	(junction
 		(at 316.23 58.42)
@@ -3188,6 +3287,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de93a620-589f-4b38-939a-193dfe985882")
+	)
+	(junction
+		(at 184.15 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2a616c0-fc10-4b0f-b381-e41bfb0cf2f0")
 	)
 	(no_connect
 		(at 307.34 71.12)
@@ -3237,16 +3342,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 184.15 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06f878f8-0b84-419b-8510-646e10bddc11")
-	)
-	(wire
-		(pts
 			(xy 179.07 135.89) (xy 179.07 139.7)
 		)
 		(stroke
@@ -3284,16 +3379,6 @@
 			(type default)
 		)
 		(uuid "093ff976-3d98-49fc-b099-bf7e7bfffc18")
-	)
-	(wire
-		(pts
-			(xy 137.16 40.64) (xy 137.16 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b23f3af-701a-44e9-a8fc-23c5934cd2d6")
 	)
 	(wire
 		(pts
@@ -3397,16 +3482,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 34.29) (xy 121.92 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1730b599-65f6-4851-8e6b-0aeac477590b")
-	)
-	(wire
-		(pts
 			(xy 210.82 220.98) (xy 210.82 153.67)
 		)
 		(stroke
@@ -3464,6 +3539,26 @@
 			(type default)
 		)
 		(uuid "211c19b6-2a22-4514-b9e3-1afc555582f4")
+	)
+	(wire
+		(pts
+			(xy 106.68 40.005) (xy 106.68 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21eebd5e-89c0-447a-8997-2dd13abcd6d2")
+	)
+	(wire
+		(pts
+			(xy 106.68 29.21) (xy 106.68 32.385)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2204bd75-ad77-48a8-a193-186488c5721a")
 	)
 	(wire
 		(pts
@@ -3567,6 +3662,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 77.47) (xy 184.15 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c7c0884-5b2e-44a8-9aac-0a5d2d8574d9")
+	)
+	(wire
+		(pts
 			(xy 58.42 45.72) (xy 45.72 45.72)
 		)
 		(stroke
@@ -3584,6 +3689,16 @@
 			(type default)
 		)
 		(uuid "2eaca56b-68b4-4d1d-9bf0-9f3640de6038")
+	)
+	(wire
+		(pts
+			(xy 199.39 81.28) (xy 210.82 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f286753-446d-4f58-946c-213e759289f7")
 	)
 	(wire
 		(pts
@@ -3667,6 +3782,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 34.29) (xy 121.92 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40cd5cab-0c19-413a-a829-61814fe97dfd")
+	)
+	(wire
+		(pts
 			(xy 377.19 53.34) (xy 389.89 53.34)
 		)
 		(stroke
@@ -3704,6 +3829,16 @@
 			(type default)
 		)
 		(uuid "47c8a101-5a57-44b3-b2f9-8aefbaf697e1")
+	)
+	(wire
+		(pts
+			(xy 184.15 85.09) (xy 184.15 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aca08ec-e332-414c-b7ef-ee546c0c824e")
 	)
 	(wire
 		(pts
@@ -3787,13 +3922,23 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 50.8) (xy 50.8 50.8)
+			(xy 29.21 50.8) (xy 36.83 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "59eb1d0b-8f77-4654-bfde-39f501da9a61")
+	)
+	(wire
+		(pts
+			(xy 152.4 78.74) (xy 152.4 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a1718c1-6768-4479-8b18-258a8d187fa5")
 	)
 	(wire
 		(pts
@@ -3837,26 +3982,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 81.28) (xy 199.39 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "665b28b0-d1f4-49fa-8cff-a512fff7d143")
-	)
-	(wire
-		(pts
-			(xy 91.44 25.4) (xy 91.44 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6770717f-c0f0-434a-9542-2a46623c34dc")
-	)
-	(wire
-		(pts
 			(xy 80.01 90.17) (xy 78.74 90.17)
 		)
 		(stroke
@@ -3894,16 +4019,6 @@
 			(type default)
 		)
 		(uuid "70b3633a-1953-4f94-8191-5b49e1833996")
-	)
-	(wire
-		(pts
-			(xy 167.64 64.77) (xy 167.64 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70f24c66-d759-445d-bab8-05172978f17f")
 	)
 	(wire
 		(pts
@@ -3967,13 +4082,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 29.21) (xy 106.68 43.18)
+			(xy 36.83 50.8) (xy 50.8 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76a7ee8e-0d71-40b3-83e1-27effb675618")
+		(uuid "78d2ba53-9d3e-4e3d-ae3b-92ff06b7ac76")
 	)
 	(wire
 		(pts
@@ -4027,7 +4142,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 64.77) (xy 167.64 64.77)
+			(xy 167.64 64.77) (xy 172.72 64.77)
 		)
 		(stroke
 			(width 0)
@@ -4067,6 +4182,26 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 82.55) (xy 199.39 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ad1b1ed-287b-479f-bf4f-42f2292121e7")
+	)
+	(wire
+		(pts
+			(xy 167.64 72.39) (xy 167.64 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bcf047c-d1a4-4ce0-804a-d57f26678924")
+	)
+	(wire
+		(pts
 			(xy 152.4 82.55) (xy 152.4 91.44)
 		)
 		(stroke
@@ -4087,6 +4222,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 44.45) (xy 121.92 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c7d83bf-5ca7-4eae-9927-2b7b9497908a")
+	)
+	(wire
+		(pts
 			(xy 360.68 53.34) (xy 364.49 53.34)
 		)
 		(stroke
@@ -4094,6 +4239,16 @@
 			(type default)
 		)
 		(uuid "8c83acb8-5f18-42ae-bec0-ffae0ef940e8")
+	)
+	(wire
+		(pts
+			(xy 184.15 73.66) (xy 189.23 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d240842-1a3a-49b1-b504-d06275698252")
 	)
 	(wire
 		(pts
@@ -4267,16 +4422,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 57.15) (xy 152.4 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3b22bda-33e3-4d80-acf5-b177d4101181")
-	)
-	(wire
-		(pts
 			(xy 119.38 135.89) (xy 119.38 139.7)
 		)
 		(stroke
@@ -4367,6 +4512,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 80.01) (xy 167.64 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13f07b5-010d-435d-b619-0f9a73cb81d0")
+	)
+	(wire
+		(pts
 			(xy 45.72 45.72) (xy 45.72 99.06)
 		)
 		(stroke
@@ -4447,16 +4602,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 81.28) (xy 210.82 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5b0f39c-22ac-48b3-a2f1-91f2a2a0a72d")
-	)
-	(wire
-		(pts
 			(xy 44.45 114.3) (xy 80.01 114.3)
 		)
 		(stroke
@@ -4514,16 +4659,6 @@
 			(type default)
 		)
 		(uuid "d1007053-eb9e-4284-9597-4136d43d459b")
-	)
-	(wire
-		(pts
-			(xy 184.15 73.66) (xy 184.15 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2e6fd9e-796d-47d0-a0bc-047f858d0e46")
 	)
 	(wire
 		(pts
@@ -4608,6 +4743,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 57.15) (xy 152.4 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e25ed4a3-2866-4ae2-a5fd-46500b5d268a")
+	)
+	(wire
+		(pts
 			(xy 307.34 58.42) (xy 316.23 58.42)
 		)
 		(stroke
@@ -4625,6 +4770,16 @@
 			(type default)
 		)
 		(uuid "e63b219d-f837-49b9-97e4-6dea6d53555e")
+	)
+	(wire
+		(pts
+			(xy 91.44 25.4) (xy 91.44 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e65b9e56-157e-49b3-b505-7b73db354874")
 	)
 	(wire
 		(pts
@@ -4705,6 +4860,16 @@
 			(type default)
 		)
 		(uuid "f76e008c-470f-412a-bed4-9747d597c34c")
+	)
+	(wire
+		(pts
+			(xy 91.44 38.1) (xy 91.44 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcf83c9b-63c9-412a-990b-e3293482b7f5")
 	)
 	(wire
 		(pts
@@ -4930,7 +5095,7 @@
 			(uuid "abe4506f-9a82-443d-8bcd-de9dc2932cc6")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R16")
 					(unit 1)
@@ -5022,7 +5187,7 @@
 			(uuid "32ec9683-af5d-467c-808f-37d8c4297f01")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D12")
 					(unit 1)
@@ -5100,7 +5265,7 @@
 			(uuid "89e32e2b-3978-48c3-8c29-807cb454f916")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR014")
 					(unit 1)
@@ -5181,9 +5346,85 @@
 			(uuid "b8522efa-d376-40de-8c59-7781dfbb04c2")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 372.745 226.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "094896ec-9d04-4f6b-af72-925db4b9c415")
+		(property "Reference" "H2"
+			(at 375.285 224.7899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 375.285 227.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 372.745 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.745 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 372.745 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -5259,7 +5500,7 @@
 			(uuid "7aed9ad2-3d4e-4aaf-976b-5ea06fab4056")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR07")
 					(unit 1)
@@ -5383,7 +5624,7 @@
 			(uuid "2a2b690e-5b3b-4acd-9061-0199bbeca2ed")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "U2")
 					(unit 2)
@@ -5424,7 +5665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 162.56 135.255 0)
 			(hide yes)
 			(show_name no)
@@ -5492,7 +5733,7 @@
 			(uuid "8a67b91a-3161-4dd5-b7f5-9fd64869a905")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q7")
 					(unit 1)
@@ -5585,7 +5826,7 @@
 			(uuid "d246828f-4b08-4813-87b0-ca1717767d63")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D1")
 					(unit 1)
@@ -5663,7 +5904,7 @@
 			(uuid "238c32ba-6a0f-4e11-96b1-a3c9f620ffae")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#FLG04")
 					(unit 1)
@@ -5746,7 +5987,7 @@
 			(uuid "32b2a234-703e-4205-ab00-7e611f6ed0c4")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J4")
 					(unit 1)
@@ -5828,7 +6069,7 @@
 			(uuid "d577b8a6-2c41-4427-8960-7e5e0c5f39bd")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R3")
 					(unit 1)
@@ -5906,7 +6147,7 @@
 			(uuid "6db2c1b4-0304-4fb4-a91d-06bb4975517b")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR010")
 					(unit 1)
@@ -5988,7 +6229,7 @@
 			(uuid "122f1a70-62b2-4270-b0ea-a6ed81f2e992")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R9")
 					(unit 1)
@@ -6070,9 +6311,85 @@
 			(uuid "6f2ca221-4966-4cd2-ae54-e1db53fa762b")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 383.54 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1eed16e5-7059-44ba-b9a4-b55ae35d27fe")
+		(property "Reference" "H4"
+			(at 386.08 227.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 386.08 229.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 383.54 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 383.54 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 383.54 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -6152,7 +6469,7 @@
 			(uuid "b352ac59-1108-4f87-9f68-fce546e29603")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J12")
 					(unit 1)
@@ -6245,9 +6562,91 @@
 			(uuid "f7395aa1-430e-41c9-ad57-e8bb8fee8dda")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 199.39 86.36 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "27a0e6f1-36fa-4719-acd8-d36af21ac0c5")
+		(property "Reference" "R30"
+			(at 196.85 85.0899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 196.85 87.6299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 197.612 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 199.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f4002f5f-1ed7-47cd-8844-3e53414577d2")
+		)
+		(pin "1"
+			(uuid "f3d07979-5e16-47af-bc93-3ad57880c640")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -6323,7 +6722,7 @@
 			(uuid "7aebe518-8a22-4b38-84dd-050446ead710")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR029")
 					(unit 1)
@@ -6405,7 +6804,7 @@
 			(uuid "026dc5b1-8a86-4988-8837-661dfd92e449")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J9")
 					(unit 1)
@@ -6483,7 +6882,7 @@
 			(uuid "5010ad28-1ab5-4344-bad1-b1dad11cc480")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR021")
 					(unit 1)
@@ -6567,7 +6966,7 @@
 			(uuid "b0df60be-7207-4bb1-8ace-1563c2561210")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "U4")
 					(unit 1)
@@ -6660,7 +7059,7 @@
 			(uuid "72d1a29f-ccfa-4e38-b4ed-66419c3de678")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D6")
 					(unit 1)
@@ -6742,7 +7141,7 @@
 			(uuid "48da3fa5-ab7a-471c-aafc-4fe2f5555962")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R21")
 					(unit 1)
@@ -6820,7 +7219,7 @@
 			(uuid "0d56d3e1-6b35-4f30-847d-249e26a885a6")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR06")
 					(unit 1)
@@ -6898,7 +7297,7 @@
 			(uuid "def43cbc-b9c6-4901-8cec-383fd1719dad")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR041")
 					(unit 1)
@@ -6980,9 +7379,91 @@
 			(uuid "f748b43d-78c9-43c8-aca0-fd412c5c7aaf")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 137.16 44.45 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3fd679af-caaf-4506-8aae-0766205c9329")
+		(property "Reference" "R26"
+			(at 134.62 43.1799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 134.62 45.7199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 135.382 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 137.16 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "af549700-2765-4f76-b341-66b9b27ba249")
+		)
+		(pin "1"
+			(uuid "ebda1c83-0d39-47a6-8975-b732af260c2c")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -7062,7 +7543,7 @@
 			(uuid "06b92f7e-b5ca-4eae-9b58-28f043360896")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J11")
 					(unit 1)
@@ -7144,7 +7625,7 @@
 			(uuid "8c69b6c3-9dd9-4363-97f1-bd9727eec57d")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R4")
 					(unit 1)
@@ -7226,9 +7707,91 @@
 			(uuid "5a5348c8-5a6c-4091-9b43-6ccb4f3b7c6d")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 184.15 81.28 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4892a190-b291-4cbf-a02c-d47de80a337a")
+		(property "Reference" "R29"
+			(at 181.61 80.0099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 181.61 82.5499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 182.372 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 184.15 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8ecadcb-f239-4622-9962-182214284425")
+		)
+		(pin "1"
+			(uuid "4db2535c-9922-45b8-80ea-425b6dc5bb70")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -7308,7 +7871,7 @@
 			(uuid "0d3ae395-90f2-4318-8044-d5a8eb12d315")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "C7")
 					(unit 1)
@@ -7401,7 +7964,7 @@
 			(uuid "44c3120f-6db7-4751-b21a-c4bf0eeac1c4")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D5")
 					(unit 1)
@@ -7483,7 +8046,7 @@
 			(uuid "c04b9fd8-0c42-4015-8ab5-e2d4d1248b2a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R6")
 					(unit 1)
@@ -7524,7 +8087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 158.75 222.885 0)
 			(hide yes)
 			(show_name no)
@@ -7592,7 +8155,7 @@
 			(uuid "97d554a9-d527-4311-a97c-cd39ce0858c8")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q6")
 					(unit 1)
@@ -7674,7 +8237,7 @@
 			(uuid "269db10c-85a8-4ee4-ab72-37b7fbfbe92a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R11")
 					(unit 1)
@@ -7752,7 +8315,7 @@
 			(uuid "8e4c3775-4fcd-41ef-9d56-9b47b8486344")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR039")
 					(unit 1)
@@ -7830,9 +8393,91 @@
 			(uuid "5f7e6a7f-7116-4d98-b937-742182a3579e")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 106.68 36.195 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56704375-364b-4e47-8141-57cb61e26b41")
+		(property "Reference" "R24"
+			(at 104.14 34.9249 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 104.14 37.4649 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 104.902 36.195 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 106.68 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "39f08728-4a47-4506-9959-9792320bdd85")
+		)
+		(pin "1"
+			(uuid "eab2fa67-07f9-4765-b06d-005330304361")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -7871,7 +8516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 104.14 135.255 0)
 			(hide yes)
 			(show_name no)
@@ -7939,7 +8584,7 @@
 			(uuid "fb855f0b-b85b-4c66-9390-47db443199e3")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q3")
 					(unit 1)
@@ -8017,7 +8662,7 @@
 			(uuid "2fb6e1b1-cb2a-402a-a2c2-c70fef96c523")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR017")
 					(unit 1)
@@ -8059,7 +8704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 34.29 116.205 0)
 			(hide yes)
 			(show_name no)
@@ -8127,7 +8772,7 @@
 			(uuid "d5f7f3c4-3c9d-46ce-a8d6-ff9bf7451dfe")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q1")
 					(unit 1)
@@ -8209,7 +8854,7 @@
 			(uuid "99880464-e817-49a7-b465-b5cc0cef02df")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J14")
 					(unit 1)
@@ -8287,7 +8932,7 @@
 			(uuid "4cf88f93-ed26-43bb-9169-5f1c60c02764")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#FLG03")
 					(unit 1)
@@ -8365,7 +9010,7 @@
 			(uuid "8aafcb8d-d096-4c59-8268-d69e3eeb02e4")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR040")
 					(unit 1)
@@ -8443,7 +9088,7 @@
 			(uuid "dc81ad6e-2fd3-40d5-a6ec-6f0c06295e0f")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR018")
 					(unit 1)
@@ -8484,7 +9129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 181.61 164.465 0)
 			(hide yes)
 			(show_name no)
@@ -8552,7 +9197,7 @@
 			(uuid "7324fd99-86d9-4c76-b22c-86f78fb16982")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q8")
 					(unit 1)
@@ -8635,7 +9280,7 @@
 			(uuid "c84b980b-9bf0-4d11-9f3f-f6941651b13e")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J6")
 					(unit 1)
@@ -8676,7 +9321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 220.98 222.885 0)
 			(hide yes)
 			(show_name no)
@@ -8744,7 +9389,7 @@
 			(uuid "fc071a3a-c04d-472a-9268-7004b25d2c6c")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q10")
 					(unit 1)
@@ -8822,7 +9467,7 @@
 			(uuid "a7540c6a-88e0-46d3-b472-931edf663334")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR04")
 					(unit 1)
@@ -8900,7 +9545,7 @@
 			(uuid "de14811b-c69f-412f-ac8f-895eedbe9965")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR027")
 					(unit 1)
@@ -8978,7 +9623,7 @@
 			(uuid "db42ff33-91d6-43e2-b335-ee36455e52bd")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR020")
 					(unit 1)
@@ -9056,7 +9701,7 @@
 			(uuid "42f0400d-99a9-4293-bd63-034ffd3b775a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR013")
 					(unit 1)
@@ -9134,7 +9779,7 @@
 			(uuid "2ab3eccd-27b5-48db-a5b2-ca3fe32e4674")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR019")
 					(unit 1)
@@ -9212,7 +9857,7 @@
 			(uuid "ee656959-f0f8-47e5-ab82-421c4dc9908a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR034")
 					(unit 1)
@@ -9313,7 +9958,7 @@
 			(uuid "60a4b1b6-90a6-4587-b8b6-fab6e01c6574")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D11")
 					(unit 1)
@@ -9391,7 +10036,7 @@
 			(uuid "8c57d396-b3f9-478b-b44e-d493a50d93d2")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR08")
 					(unit 1)
@@ -9432,7 +10077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 201.93 194.945 0)
 			(hide yes)
 			(show_name no)
@@ -9500,7 +10145,7 @@
 			(uuid "81567eed-277b-4d50-b296-b74c5eb57132")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q9")
 					(unit 1)
@@ -9582,7 +10227,7 @@
 			(uuid "1803253e-c968-4c2d-9103-783feef775b5")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R18")
 					(unit 1)
@@ -9675,7 +10320,7 @@
 			(uuid "b181574f-6575-48db-8ba0-265f032aff1a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D7")
 					(unit 1)
@@ -9753,7 +10398,7 @@
 			(uuid "c65549fd-08de-4de7-be29-d52ab167e8cf")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR022")
 					(unit 1)
@@ -9835,7 +10480,7 @@
 			(uuid "27e54d36-7d76-4783-8aac-058a8b5d5bdf")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R17")
 					(unit 1)
@@ -9913,9 +10558,91 @@
 			(uuid "99823ead-7019-43f0-9c0c-16534cc17b95")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 36.83 54.61 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9780f7be-47b4-419f-8af4-0ed9d842955e")
+		(property "Reference" "R13"
+			(at 39.37 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100k"
+			(at 39.37 55.8799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 38.608 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 36.83 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6cb2f0e1-0e0d-4c4d-bf43-9976cf272a60")
+		)
+		(pin "1"
+			(uuid "ca6fe27b-f811-461d-87bc-2baf113476e5")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -9995,7 +10722,7 @@
 			(uuid "ad55adca-ffff-403c-a9ed-cb2541616726")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R15")
 					(unit 1)
@@ -10076,7 +10803,7 @@
 			(uuid "6d358e95-125a-4fef-b047-f0fd716197ae")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R12")
 					(unit 1)
@@ -10158,7 +10885,7 @@
 			(uuid "bf079386-ddbf-4555-a743-5047bc34e39b")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J8")
 					(unit 1)
@@ -10240,7 +10967,7 @@
 			(uuid "69c3dd9e-582a-49bc-833d-77ede5de74b4")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R10")
 					(unit 1)
@@ -10318,7 +11045,7 @@
 			(uuid "6f8b2a8f-7518-491a-bb7f-b7e3fa93f1b5")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR015")
 					(unit 1)
@@ -10396,7 +11123,7 @@
 			(uuid "7a219cbe-6fb2-4716-8066-ec6c163a18a5")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR043")
 					(unit 1)
@@ -10489,7 +11216,7 @@
 			(uuid "01c0fa1c-08db-4413-b014-9f58da8fcf56")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D3")
 					(unit 1)
@@ -10530,7 +11257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 121.92 164.465 0)
 			(hide yes)
 			(show_name no)
@@ -10598,7 +11325,7 @@
 			(uuid "1296d669-4566-406d-aba0-eeebe1b06ee8")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q4")
 					(unit 1)
@@ -10680,7 +11407,7 @@
 			(uuid "ad083c90-5b3c-4be1-b6f7-48199bc7a3e5")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R19")
 					(unit 1)
@@ -10721,7 +11448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 139.7 194.945 0)
 			(hide yes)
 			(show_name no)
@@ -10789,7 +11516,7 @@
 			(uuid "9eb3c88a-f34f-4fdf-a171-4d59cbc54bcb")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "Q5")
 					(unit 1)
@@ -10870,7 +11597,7 @@
 			(uuid "ebbd991f-cc16-4f1c-b64d-ec6b7cd6f4e1")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "C8")
 					(unit 1)
@@ -10948,7 +11675,7 @@
 			(uuid "40952de9-600c-40b8-b7bd-73873f008e28")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR038")
 					(unit 1)
@@ -11030,7 +11757,7 @@
 			(uuid "6eb14fc1-5f5b-4162-af7c-85b56e29143b")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J13")
 					(unit 1)
@@ -11112,9 +11839,167 @@
 			(uuid "75367615-14e9-4cd7-afa4-bb71cef1429c")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 91.44 34.29 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bf21231e-3989-4b66-be95-44b7b0625976")
+		(property "Reference" "R23"
+			(at 88.9 33.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 88.9 35.5599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 89.662 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 91.44 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f4c3b37a-eb03-4ed1-b629-e4a222702cf3")
+		)
+		(pin "1"
+			(uuid "b349e44a-0b76-41c1-9db6-17dbc31986be")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 381 236.855 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c18c2b59-33d1-49e5-add7-a19c8188d6d0")
+		(property "Reference" "H1"
+			(at 383.54 235.5849 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 383.54 238.1249 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 381 236.855 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 381 236.855 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 381 236.855 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -11190,7 +12075,7 @@
 			(uuid "7007c963-6d88-4356-b433-f9ef00cdce31")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR09")
 					(unit 1)
@@ -11272,7 +12157,7 @@
 			(uuid "ed127a54-fdc3-4f7e-bf9f-de6b2f2965af")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R2")
 					(unit 1)
@@ -11350,7 +12235,7 @@
 			(uuid "5f252c66-7178-4639-8163-5b06a4330b1f")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR016")
 					(unit 1)
@@ -11432,7 +12317,7 @@
 			(uuid "33ad2d6b-ea0b-45eb-a077-1abdcda50df1")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R20")
 					(unit 1)
@@ -11514,7 +12399,7 @@
 			(uuid "35c6ba05-abd2-43cf-a36b-a81d931446d0")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R7")
 					(unit 1)
@@ -11592,7 +12477,7 @@
 			(uuid "051aaf5b-2699-4a0f-8149-e8cf42f820c5")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR05")
 					(unit 1)
@@ -11670,7 +12555,7 @@
 			(uuid "14c69b48-7ac7-44d8-a310-e8968b6e3939")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR011")
 					(unit 1)
@@ -11752,7 +12637,7 @@
 			(uuid "10c91d44-4f78-499c-acfe-17df1ece225a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "R8")
 					(unit 1)
@@ -11845,7 +12730,7 @@
 			(uuid "ab7d6c5e-cbf3-4454-9a3a-e601cf02750a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D4")
 					(unit 1)
@@ -11969,7 +12854,7 @@
 			(uuid "e2347d9f-2fb0-4371-9b93-d5427776ad71")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "U2")
 					(unit 1)
@@ -12051,7 +12936,7 @@
 			(uuid "6ce622ce-9b54-4ec5-9d0e-ac9ee254bc1a")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J10")
 					(unit 1)
@@ -12129,7 +13014,7 @@
 			(uuid "a7fea571-b309-48e5-82fc-cb70a1215b2c")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR042")
 					(unit 1)
@@ -12207,9 +13092,249 @@
 			(uuid "62756fa5-acf4-4a49-af83-c0ad3b31754e")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 167.64 76.2 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f1e2a16d-efbd-43d4-bd79-c1616508bb76")
+		(property "Reference" "R28"
+			(at 165.1 74.9299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 165.1 77.4699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 165.862 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 167.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "360a512a-29dc-4f40-96d8-807f85c81d5a")
+		)
+		(pin "1"
+			(uuid "0366b50c-e7a2-43a1-b683-db1fd2dc9a02")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 152.4 74.93 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f26d83c1-b6a5-47ec-a722-9b6e146e930a")
+		(property "Reference" "R27"
+			(at 149.86 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 149.86 76.1999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 150.622 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 152.4 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9320448d-162a-4ecc-8e74-c15eb10d0841")
+		)
+		(pin "1"
+			(uuid "f4df1128-e3d5-49a6-85f2-30a681537720")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 372.745 234.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2d2be11-d0e8-4c54-ba8b-27a12339ef17")
+		(property "Reference" "H3"
+			(at 375.285 233.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 375.285 236.2199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 372.745 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.745 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 372.745 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -12289,7 +13414,7 @@
 			(uuid "dd5429c5-16dc-45ae-b85e-2dc97dcb3f82")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "J2")
 					(unit 1)
@@ -12367,7 +13492,7 @@
 			(uuid "83b75f93-d970-4123-ad83-ef2c32f439df")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "#PWR012")
 					(unit 1)
@@ -12460,9 +13585,169 @@
 			(uuid "42f85e9b-49df-45e4-8d37-c698f5ee1ec4")
 		)
 		(instances
-			(project "secuenciador-02-v02"
+			(project "secuenciador-02-v03"
 				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
 					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 36.83 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7bbf2d5-097a-4fe7-8c38-6baef80f94ed")
+		(property "Reference" "#PWR03"
+			(at 36.83 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 36.83 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 36.83 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f015fd21-6fa1-450c-babf-4291c289190f")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 121.92 40.64 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fa565cd3-9714-46b8-94a8-c061f7995452")
+		(property "Reference" "R25"
+			(at 119.38 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 119.38 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 120.142 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e258edbc-d6a6-475e-b317-88b17decde3b")
+		)
+		(pin "1"
+			(uuid "7908f96b-d423-4839-8e33-0d5f701c4b04")
+		)
+		(instances
+			(project "secuenciador-02-v03"
+				(path "/7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
+					(reference "R25")
 					(unit 1)
 				)
 			)

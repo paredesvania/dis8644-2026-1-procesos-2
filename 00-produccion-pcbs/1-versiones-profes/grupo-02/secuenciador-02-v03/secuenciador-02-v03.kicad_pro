@@ -538,7 +538,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../2-archivos-produccion/g-02-sec-02-rev-a/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -662,13 +662,13 @@
         "uuid": "7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
     [
       "7d305f90-0570-4cd5-a06e-4b8b2fd923a4",
-      "secuenciador-02-v02"
+      "secuenciador-02-v03"
     ]
   ],
   "text_variables": {},

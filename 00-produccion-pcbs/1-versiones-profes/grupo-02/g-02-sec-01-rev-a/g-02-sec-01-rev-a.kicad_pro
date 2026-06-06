@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "g02-secu-01-revA.kicad_pro",
+    "filename": "g-02-sec-01-rev-a.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -658,8 +658,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "g02-secu-01-revA.kicad_sch",
-        "name": "g02-secu-01-revA",
+        "filename": "g-02-sec-01-rev-a.kicad_sch",
+        "name": "g-02-sec-01-rev-a",
         "uuid": "775ddcce-7399-4327-91c6-577fa9692cfa"
       }
     ],
