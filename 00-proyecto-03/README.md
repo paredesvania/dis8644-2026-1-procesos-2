@@ -11,3 +11,7 @@
 - bitácora de trabajo de junio
 - bitácora de lectura de libro junio
 - presentación oral
+
+## referencias
+
+- partituras experimentales <https://llllllll.co/t/experimental-music-notation-resources/149/55?page=4>
