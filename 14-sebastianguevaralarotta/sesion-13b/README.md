@@ -20,29 +20,50 @@ TAN TAN TAN TAN
 
 ---
 
-Oranizacion de proyecto - Examen 
+# Organización del Proyecto – Examen
 
-# "multiples mundos que conviven entre si"
-- la electronica visible forma parte del lenuaje del instrumento.
+## Concepto
 
-- referentes:
-- victor mazon con srgnum
-- teenege enginering
+### "Múltiples mundos que conviven entre sí"
 
-- para comenzar a entender bien el sintetizador y como crear una partitura, empeze por explicar como funciona el filtro que construimos con mis compañeras.
+Este proyecto explora la coexistencia de diferentes capas materiales, sonoras y visuales dentro de un mismo objeto. La electrónica no se oculta: forma parte del lenguaje visual y conceptual del instrumento, revelando su funcionamiento y convirtiéndose en un elemento expresivo.
 
-- FILTRO
-- Es un filtro de tono de dos bordas
-- RV1 - controla principalemente los graves
-- RV2 - controla principalmente los agudos
+## Referentes
 
-- ## ¿Que pasa cuando giro RV1?
--hacia un lado + grave
--hacia el otro lado - graves 
+* Victor Mazón – *Srgnum*
+* Teenage Engineering
 
-### ¿Que pasa cuando giro RV2?
--hacia un lado + brillo 
--hacia el otro + oscuro 
+Estos referentes comparten una aproximación donde la tecnología, la estética y la experiencia de interacción forman una unidad inseparable.
+
+## Comprensión del instrumento
+
+Antes de desarrollar una partitura experimental, fue necesario comprender el comportamiento del sintetizador y, en particular, del filtro construido junto a mis compañeras.
+
+### Filtro de tono de dos bandas
+
+El circuito incorpora dos controles principales:
+
+* **RV1:** controla principalmente las frecuencias graves.
+* **RV2:** controla principalmente las frecuencias agudas.
+
+### Funcionamiento de RV1
+
+Al girar RV1:
+
+* Hacia una dirección, se enfatizan los graves.
+* Hacia la dirección opuesta, los graves se atenúan.
+
+### Funcionamiento de RV2
+
+Al girar RV2:
+
+* Hacia una dirección, aumenta el brillo y la presencia de las frecuencias agudas.
+* Hacia la dirección opuesta, el sonido se vuelve más oscuro y suave.
+
+## Observación
+
+El filtro no modifica la nota que se está tocando; modifica su color y textura. De esta manera, el instrumento funciona como una herramienta para esculpir el sonido y explorar distintas cualidades tímbricas a través de la interacción con los controles.
+
 
 ---
 PARTITURA — "DOS PERILLAS"
