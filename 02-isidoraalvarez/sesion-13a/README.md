@@ -18,10 +18,16 @@ Nos gustaria mezclar lo que es plantas o flores con metal
 
 ![imagen](./imagenes/idea-02.jpg)
 
+![imagen](./imagenes/idea-03.jpg)
+
+![imagen](./imagenes/idea-04.jpg)
+
+![imagen](./imagenes/idea-05.jpg)
+
 ## **TEXTO YOKO ONO**
 
 
-
+El libro es un instructivo tiene instrucciónes un poco locas y algunas un poco extremistas...
 
 
 
