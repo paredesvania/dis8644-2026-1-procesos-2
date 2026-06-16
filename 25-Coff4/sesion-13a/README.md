@@ -103,4 +103,56 @@ Nuestros 2 percutores y al final decidimos usar "los pajaritos"
 
 Que lindo jardín verdad? ╮(︶▽︶)╭
 
+---
+
+¡Hola! Me Ilamo John Lennon
+quiero presentarles a Yoko Ono.
+
+### POMELO
+
+El pomelo es un híbrido entre un limón y una naranja. Yoko lo eligió como metáfora de su propia identidad (o eso se dice)
+
+- UNA PIEZA PARA ORQUESTA
+
+Contar todas las estrellas de la noche,
+de memoria.
+
+La pieza finaliza cuando todos los miembros
+de la orquesta terminan de contar estrellas o cuando amanece.
+
+Puede hacerse con ventanas en vez de
+estrellas.
+
+Pienso en lo lindo de la situación: Estar con un gran grupo, contando estrellas entre risas, momentos y recuerdos *Que buena orquesta*
+
+- PIEZA DE RITMO
+
+Escuchar el latido de un corazón
+
+(como nuestra PCB)
+
+- PIEZA DE SANDWICH DE ATUN
+
+Imaginar mil soles en el cielo
+al mismo tiempo.
+
+Dejarlos brillar durante una hora.
+
+Luego hacer que se derritan gradualmente
+dentro del cielo.
+
+Preparar un sandwich de atún y comerlo.
+
+(que decir, es algo rico...yo quiero un pan de atún o mejor dicho de pasta de atún)
+
+- PIEZA DE SANGRE
+- 
+Usar la propia sangre para pintar.
+
+Seguir pintando hasta desmayarse. (a)
+
+Seguir pintando hasta morirse. (b)
+
+(Siempre pensare en lo poetico de la sangre, soy una romantica para estas situaciones y Yoko Ono tal vez comparte eso, o no, no lo se heh 	┐(シ)┌)
+
 
