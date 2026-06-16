@@ -154,3 +154,10 @@ Duración:
 12. No hagas nada durante treinta segundos.
 
 Fin.
+
+---
+
+<img width="794" height="596" alt="partituraexterior" src="https://github.com/user-attachments/assets/4e07d12b-a3d7-481d-825b-42509a9ca5a0" />
+
+<img width="794" height="596" alt="partitura interior" src="https://github.com/user-attachments/assets/dd5d708c-18f4-46f0-ac27-ba74cff820c3" />
+
